@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hi, I'm Vũ Công Thắng
+# Hi, I'm Vũ Công Thắng
 
-### 🤖 AI Engineer Intern | NLP & Computer Vision Enthusiast
+### AI Engineer Intern | NLP & Computer Vision Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-Thang04--ML-181717?style=for-the-badge&logo=github)](https://github.com/Thang04-ML)
 [![Email](https://img.shields.io/badge/Email-thangvc1511%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thangvc1511@gmail.com)
@@ -12,7 +12,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 > AI Engineer with strong hands-on experience in building applied AI systems, focusing on **Retrieval-Augmented Generation (RAG)**, **Information Retrieval**, and **Computer Vision**. Experienced in developing end-to-end pipelines including data preprocessing, model training, evaluation, and deployment.
 
@@ -46,13 +46,13 @@
 
 ---
 
-## 💡 Skills
+## Skills
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 Machine Learning & Deep Learning
+### Machine Learning & Deep Learning
 - Machine Learning fundamentals
 - CNN, Transformer-based models
 - Model training, fine-tuning & evaluation
@@ -60,7 +60,7 @@
 </td>
 <td width="50%">
 
-### 📝 NLP & Information Retrieval
+### NLP & Information Retrieval
 - Information Retrieval (TF-IDF, BM25, Dense)
 - Retrieval-Augmented Generation (RAG)
 - Sentence Embeddings & Semantic Search
@@ -70,7 +70,7 @@
 <tr>
 <td width="50%">
 
-### 👁️ Computer Vision
+### Computer Vision
 - Object Detection
 - Image Classification
 - Video Analysis
@@ -89,34 +89,34 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 💬 RAG-based Chatbot Systems
+### RAG-based Chatbot Systems
 | Project | Description |
 |---------|-------------|
-| � **Vietnamese Traffic Law Chatbot** | RAG-powered chatbot for Vietnamese traffic regulations |
-| 🎓 **UIT Academic Affairs Chatbot** | Intelligent Q&A system for university academic information |
+| **Vietnamese Traffic Law Chatbot** | RAG-powered chatbot for Vietnamese traffic regulations |
+| **UIT Academic Affairs Chatbot** | Intelligent Q&A system for university academic information |
 
-### � Object Detection Systems
+### Object Detection Systems
 | Project | Description |
 |---------|-------------|
-| 🍎 **Fruit Detection** | Object detection using Sliding Windows & Deep Learning |
+| **Fruit Detection** | Object detection using Sliding Windows & Deep Learning |
 
-### 🎬 Image & Video Classification
+### Image & Video Classification
 | Project | Description |
 |---------|-------------|
-| 😴 **Driver Drowsiness Detection** | Real-time drowsiness detection system for driver safety |
-| 🚙 **Car Classification System** | Vehicle classification using deep learning models |
+| **Driver Drowsiness Detection** | Real-time drowsiness detection system for driver safety |
+| **Car Classification System** | Vehicle classification using deep learning models |
 
-### 🔍 Multimodal & Video Retrieval
+### Multimodal & Video Retrieval
 | Project | Description |
 |---------|-------------|
-| 🎥 **Video Keyframe Search Engine** | Semantic search engine for video keyframe retrieval |
-| 🖼️ **Composed Image Retrieval** | Image retrieval using SEARLE methodology |
+| **Video Keyframe Search Engine** | Semantic search engine for video keyframe retrieval |
+| **Composed Image Retrieval** | Image retrieval using SEARLE methodology |
 
 ---
 
-## � GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -124,15 +124,13 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thang04-ML&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thang04-ML&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
 
 <div align="center">
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 *I'm always open to interesting conversations and collaboration opportunities.*
 
